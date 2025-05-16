@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EmelyanIvan/test-tg-app.git/static/css/main.f855e6bc.css",
+    "main.js": "/EmelyanIvan/test-tg-app.git/static/js/main.f55821a8.js",
+    "static/js/453.9a779c76.chunk.js": "/EmelyanIvan/test-tg-app.git/static/js/453.9a779c76.chunk.js",
+    "static/media/logo.svg": "/EmelyanIvan/test-tg-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EmelyanIvan/test-tg-app.git/index.html",
+    "main.f855e6bc.css.map": "/EmelyanIvan/test-tg-app.git/static/css/main.f855e6bc.css.map",
+    "main.f55821a8.js.map": "/EmelyanIvan/test-tg-app.git/static/js/main.f55821a8.js.map",
+    "453.9a779c76.chunk.js.map": "/EmelyanIvan/test-tg-app.git/static/js/453.9a779c76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f55821a8.js"
+  ]
+}
